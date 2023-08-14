@@ -1,0 +1,1 @@
+export const DEFAULT_APPLE_APP_AUDIENCE = '[]';
